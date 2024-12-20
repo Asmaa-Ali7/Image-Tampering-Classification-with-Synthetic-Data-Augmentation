@@ -77,4 +77,4 @@ CASIA2.zip: https://drive.google.com/file/d/1P23HDmXyXugG7uI9WqISEy9sxOrW6qfc/vi
 
 Syntheic data: https://drive.google.com/drive/folders/1-BJ-yX2bw6mTBd2ow5SUvass2A4uuh29?usp=sharing
 
-Kaggle Dtaset: https://www.kaggle.com/datasets/divg07/casia-20-image-tampering-detection-dataset
+Kaggle Dataset: https://www.kaggle.com/datasets/divg07/casia-20-image-tampering-detection-dataset
